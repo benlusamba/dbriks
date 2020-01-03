@@ -1,1 +1,5 @@
 env
+.ipynb_checkpoints
+*.pyc
+*.exe
+__pycache__
