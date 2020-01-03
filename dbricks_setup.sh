@@ -18,6 +18,7 @@ source env/bin/activate
 # pip install databricks-connect==5.5.1
 pip install -r requirements.txt
 
+echo "Installing JAVA dependencies"
 
 ## JAVA Dependencies (https://stackoverflow.com/questions/24342886/how-to-install-java-8-on-mac):
 
